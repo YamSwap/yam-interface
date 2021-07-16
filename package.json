@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Yamswap Interface",
-  "homepage": "https://a186r.github.com/yam-interface",
+  "homepage": "https://a186r.github.io/yam-interface",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.2.0",
